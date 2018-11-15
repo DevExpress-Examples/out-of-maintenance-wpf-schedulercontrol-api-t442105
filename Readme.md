@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AppointmentConflicts.cs](./CS/SchedulerControl_WPF_API/CodeExamples/AppointmentConflicts.cs) (VB: [AppointmentConflicts.vb](./VB/SchedulerControl_WPF_API/CodeExamples/AppointmentConflicts.vb))
+* [AppointmentExamples.cs](./CS/SchedulerControl_WPF_API/CodeExamples/AppointmentExamples.cs) (VB: [AppointmentExamples.vb](./VB/SchedulerControl_WPF_API/CodeExamples/AppointmentExamples.vb))
+* [LabelsAndStatuses.cs](./CS/SchedulerControl_WPF_API/CodeExamples/LabelsAndStatuses.cs) (VB: [LabelsAndStatuses.vb](./VB/SchedulerControl_WPF_API/CodeExamples/LabelsAndStatuses.vb))
+<!-- default file list end -->
 # WPF SchedulerControl API
 
 
